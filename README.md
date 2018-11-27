@@ -1,7 +1,8 @@
 # LittleCodes_Python
 Some Little Items For my Life (Python)
 
-**(1)实现地理坐标和其他坐标的转换**
+------------------------------------------------------------
+**(1)实现地理坐标和其他坐标的转换**  
 【名称】：geo2latlon2Projection  
 【类型】：函数  
 【功能】：A.利用GDAL读取影像  
@@ -11,3 +12,20 @@ Some Little Items For my Life (Python)
            geo2imagexy：投影坐标转换为行列号  
 【调用】：import geo2latlon2Projection  as geolat  
          geolat.geo2lonlat(x, y)
+
+
+**(2)年积日和年月日的相互转换**  
+【名称】：day2year_year2day 
+【类型】：函数  
+【功能】：A.calculate1：根据年月日判断年积日  
+         B.calculate2：根据年积日判断年月日  
+【调用】：import day2year_year2day as days  
+         das.calculate(year, month, day)
+         
+         
+**(3)扑克牌凑24点的游戏**  
+【名称】：Get24Point 
+【类型】：函数  
+【功能】：解决扑克牌凑24点的问题，即，针对四个数，利用+ - * / 四则运算判断能否计算24点
+【调用】：import Get24Point  
+         Get24Point.calculate([2,3,4,6])
