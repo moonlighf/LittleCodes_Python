@@ -31,4 +31,4 @@ Some Little Items For my Life (Python)
 【类型】：函数  
 【功能】：解决扑克牌凑24点的问题，即，针对四个数，利用+ - * / 四则运算判断能否计算24点  
 【调用】：import Get24Point  
-         Get24Point.calculate([2,3,4,6])
+	Get24Point.calculate([2,3,4,6])
