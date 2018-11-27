@@ -3,7 +3,7 @@ Some Little Items For my Life (Python)
 
 ------------------------------------------------------------
 
-**(1)实现地理坐标和其他坐标的转换**  
+**（1）实现地理坐标和其他坐标的转换**  
 
 【名称】：geo2latlon2Projection  
 【类型】：函数  
@@ -14,7 +14,7 @@ Some Little Items For my Life (Python)
 　　　　　　　geo2imagexy：投影坐标转换为行列号  
 
 
-**(2)年积日和年月日的相互转换**  
+**（2）年积日和年月日的相互转换**  
 
 【名称】：day2year_year2day  
 【类型】：函数  
@@ -22,7 +22,7 @@ Some Little Items For my Life (Python)
 　　　　　B.　calculate2：根据年积日判断年月日  
 
 
-**(3)扑克牌凑24点的游戏**  
+**（3）扑克牌凑24点的游戏**  
 
 【名称】：Get24Point 
 【类型】：函数  
